@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "check:access": "node scripts/check-access.mjs"
+  }
+}

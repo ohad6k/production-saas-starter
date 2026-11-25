@@ -111,3 +111,5 @@ Although this kit is self-service, I help ambitious founders move faster.
 3.  **Code Audits:** Migrating from Node/Python? I'll review your architecture for scale.
 
 **[m.salim@apflowhq.com](mailto:m.salim@apflowhq.com)** • [**@foundmod**](https://x.com/foundmod)
+
+Run `npm run check:access` to scan the PostgreSQL migrations with VibeRaven.
